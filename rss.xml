@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Down The Hole]]></title>
+        <description><![CDATA[Down The Hole]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 27 Mar 2016 05:48:49 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Down The Hole]]></title>
+            <description><![CDATA[<article><h1>Down The Hole</h1><p>0. The Mind</p></article>]]></description>
+            <link>undefineddown-the-hole/index.html</link>
+            <guid isPermaLink="false">18d93a9d-2fc7-4849-b70b-7960a6dfa56f</guid>
+            <pubDate>Sun, 27 Mar 2016 05:48:49 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
