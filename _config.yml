@@ -1,0 +1,28 @@
+name: Down The Hole
+favicon: null
+layout_spectrum: 0.08964892732910812
+typography_spectrum: 0.4844144214875996
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.856148166116327
+  lightness: 0.3399346419610083
+  saturation: 0.9939327219035476
+  rhythmicContrast: 0.5973638573195785
+purpose: []
