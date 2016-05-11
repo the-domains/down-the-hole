@@ -25,8 +25,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://lasvegas.electricdaisycarnival.com/'
 title: 'EDC Las Vegas | June 17-19, 2016 | Las Vegas Motor Speedway'
-datePublished: '2016-05-11T20:40:19.768Z'
-dateModified: '2016-05-11T19:05:42.400Z'
+datePublished: '2016-05-11T20:40:19.812Z'
+dateModified: '2016-05-11T19:00:36.637Z'
 starred: false
 sourcePath: _posts/2016-05-11-edc-las-vegas-or-june-17-19-2016-or-las-vegas-motor-speedway.md
 inFeed: true
