@@ -22,8 +22,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://bostoncalling.com/'
 title: Home - Boston Calling Music Festival
-datePublished: '2016-05-11T20:40:19.669Z'
-dateModified: '2016-05-11T19:05:42.547Z'
+datePublished: '2016-05-11T20:40:20.136Z'
+dateModified: '2016-05-11T18:58:22.932Z'
 starred: false
 sourcePath: _posts/2016-05-11-home-boston-calling-music-festival.md
 inFeed: true
